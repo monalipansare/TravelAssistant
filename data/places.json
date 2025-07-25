@@ -1,0 +1,16 @@
+{
+  "jaipur": {
+    "historic": ["Amber Fort", "City Palace", "Hawa Mahal"],
+    "holy": ["Govind Dev Ji Temple"],
+    "shopping": ["Bapu Bazaar"],
+    "food": ["Laxmi Mishthan Bhandar"],
+    "nature": ["Jal Mahal", "Nahargarh"]
+  },
+  "delhi": {
+    "historic": ["Red Fort", "Qutub Minar"],
+    "holy": ["Akshardham Temple"],
+    "shopping": ["Sarojini Nagar"],
+    "food": ["Karim’s", "Paranthe Wali Gali"],
+    "nature": ["Lodhi Garden"]
+  }
+}
